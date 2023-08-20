@@ -1,2 +1,2 @@
 # webcam_opencv
-open and use webcam with opencv
+ use webcam with opencv
